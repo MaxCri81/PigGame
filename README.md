@@ -1,5 +1,6 @@
 # Pig Game
 HTML and JavaScript game.
+
 This is a 2 players game playing on the same platform.
 Each player takes a turn by clicking the "Roll Dice" button, which generates a random dice. 
 The score from each roll is added to the player's current score. 
