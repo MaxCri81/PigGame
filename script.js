@@ -1,8 +1,5 @@
 'use strict';
 
-// 2 different ways of selecting an id element.
-// const score0Element = document.querySelector('#score--0');
-// const score1Element = document.getElementById('score--1');
 const diceElement = document.querySelector('.dice');
 const btnNew = document.querySelector('.btn--new');
 const btnRoll = document.querySelector('.btn--roll');
