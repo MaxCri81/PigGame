@@ -12,6 +12,9 @@ The first player to reach a total score of 100 wins the game.
 
 
 Webpage Graphics: Jonas Schmedtmann - https://www.udemy.com/user/jonasschmedtmann/
+
 CSS for desktop view: Jonas Schmedtmann - https://www.udemy.com/user/jonasschmedtmann/
+
 CSS for mobile view: Massimiliano Crisafulli
+
 JavaScript: Massimiliano Crisafulli
