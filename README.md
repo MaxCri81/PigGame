@@ -9,6 +9,8 @@ However, if the player rolls a 1, their current score resets to zero, and their 
 The first player to reach a total score of 100 wins the game.
 
 
+
+
 ![Screenshot 2025-06-18 094701](https://github.com/user-attachments/assets/e9b72187-1ce6-4051-96be-dc677a4fcfb2)
 
 
