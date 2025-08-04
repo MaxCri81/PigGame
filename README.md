@@ -14,5 +14,4 @@ The first player to reach a total score of 100 wins the game.
 ![Screenshot 2025-06-18 094701](https://github.com/user-attachments/assets/e9b72187-1ce6-4051-96be-dc677a4fcfb2)
 
 
-The project comes from a Udemy course.
-CSS for mobile view and JavaScript written by Massimiliano Crisafulli.
+The project originated from a course. I developed the app based on the course material and implemented several enhancements to improve its functionality and overall user experience.
